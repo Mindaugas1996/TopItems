@@ -54,3 +54,5 @@ class ContentController extends Controller
         return $twig->render('TopItems::content.TopItems', $templateData);
     }
 }
+
+echo
